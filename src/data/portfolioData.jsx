@@ -1,4 +1,5 @@
 import { Brain, TrendingUp, BarChart3, Database } from 'lucide-react';
+import profileImg from '../assets/profile.jpg';
 
 export const projects = [
   {
@@ -40,5 +41,5 @@ export const personalInfo = {
   education: "MSc Data Science",
   experience: "2+ Years",
   bio: "Passionate data scientist with a love for uncovering hidden patterns in complex datasets. I specialize in machine learning, statistical analysis, and creating data-driven solutions that drive business impact.",
-  image: "/profile.jpg"
+  image: profileImg
 };

@@ -1,3 +1,5 @@
+import logoImg from '../assets/logo2.jpg';
+
 const Navigation = ({ activeSection, handleScrollTo }) => {
   const navItems = [
     { id: "home", label: "HOME" },
@@ -13,7 +15,7 @@ const Navigation = ({ activeSection, handleScrollTo }) => {
         
         {/* Logo - Blending with background */}
         <img
-          src="/logo2.jpg"
+          src={logoImg}
           alt="My Logo"
           className="h-16 object-contain mix-blend-lighten select-none"
         />
