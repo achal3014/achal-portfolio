@@ -38,8 +38,8 @@ export const personalInfo = {
   name: "S ACHAL",
   title: "DEVELOPER | DATA SCIENTIST",
   tagline: "In the symphony of data, I find the melodies that transform noise into insights and complexity into clarity",
-  education: "MSc Data Science",
-  experience: "2+ Years",
-  bio: "Passionate data scientist with a love for uncovering hidden patterns in complex datasets. I specialize in machine learning, statistical analysis, and creating data-driven solutions that drive business impact.",
+  education: "B.E in Information Science and Engineering, 2026",
+  experience: "Building skills via personal projects",
+  bio: "Passionate developer and data scientist with expertise in machine learning, statistical analysis, frontend development, and DSA-based problem solving. Skilled at uncovering patterns in complex datasets and building data-driven solutions that create real impact.",
   image: profileImg
 };
