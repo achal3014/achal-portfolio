@@ -40,5 +40,5 @@ export const personalInfo = {
   education: "MSc Data Science",
   experience: "2+ Years",
   bio: "Passionate data scientist with a love for uncovering hidden patterns in complex datasets. I specialize in machine learning, statistical analysis, and creating data-driven solutions that drive business impact.",
-  image: "./src/assets/profile.jpg"
+  image: "/profile.jpg"
 };

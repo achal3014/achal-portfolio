@@ -13,7 +13,7 @@ const Navigation = ({ activeSection, handleScrollTo }) => {
         
         {/* Logo - Blending with background */}
         <img
-          src="./src/assets/logo2.jpg"
+          src="/logo2.jpg"
           alt="My Logo"
           className="h-16 object-contain mix-blend-lighten select-none"
         />
