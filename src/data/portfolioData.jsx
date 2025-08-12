@@ -7,7 +7,7 @@ export const projects = [
     description: "This project classifies calls as scam, spam, or ham, tracks their locations via geographic data, and visualizes patterns, frequencies, and durations using Whisper for audio-to-text.",
     tech: ["Python", "OpenCage API", "Whisper", "Sklearn", "Matplotlib", "Flask", "HTML/CSS"],
     icon: <Brain className="w-6 h-6" />,
-    url: "https://github.com/achal3014/Spam-Fraud-Call-Location-Detection/blob/main/readme.md"
+    url: "https://github.com/achal3014/Spam-Scam-Call-Classification-and-Location-Tracking/blob/main/readme.md"
   },
   {
     title: "American Sign Language (ASL) Recognition",
